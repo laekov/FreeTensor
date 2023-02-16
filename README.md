@@ -1,5 +1,5 @@
-<img src="docs/resource/logo-light.png#gh-dark-mode-only" width="40%"/>
-<img src="docs/resource/logo-dark.png#gh-light-mode-only" width="40%"/>
+[<img src="docs/resource/logo-light.png" width="40%"/>](/#gh-dark-mode-only)
+[<img src="docs/resource/logo-dark.png" width="40%"/>](/#gh-light-mode-only)
 
 [Get Started](https://roastduck.github.io/FreeTensor/guide/) | [Contributing](https://roastduck.github.io/FreeTensor/about/contrib/) | [Publication](https://roastduck.github.io/FreeTensor/about/pub/) | [License](https://github.com/roastduck/FreeTensor/blob/master/LICENSE)
 
